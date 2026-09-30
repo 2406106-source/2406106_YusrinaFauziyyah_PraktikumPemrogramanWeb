@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td align="center"><b>Mata Kuliah</b></td>
-    <td>Praktikum Pemrograman Web </td>
+    <td>Praktikum Pemrograman Web 2026</td>
   </tr>
   <tr>
     <td align="center"><b>Instansi</b></td>
@@ -120,6 +120,15 @@ Berikut adalah ringkasan progres dan materi yang telah dipelajari dalam praktiku
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </p>
+
+### Spesifikasi Perangkat
+Daftar spesifikasi perangkat keras dan perangkat lunak pendukung yang digunakan selama praktikum:
+* **Sistem Operasi**: Windows 11 Home 64-bit
+* **Kapasitas RAM**: 16,0 GB DDR4
+* **Versi Node.js**: v20.x.x (LTS)
+* **Versi Git**: v2.4x.x
+* **Local Web Server**: Laragon v6.0.0 (MySQL Port 3306)
+* **Code Editor**: Visual Studio Code (versi terbaru)
 
 ---
 
