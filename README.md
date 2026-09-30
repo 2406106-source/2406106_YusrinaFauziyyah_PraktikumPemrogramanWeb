@@ -57,8 +57,12 @@
     <td><code>IFRWP5151</code></td>
   </tr>
   <tr>
+    <td align="center"><b>Dosen Pengampu</b></td>
+    <td><code>Ade Sutedi S.T, M.Kom.</code></td>
+  </tr>
+  <tr>
     <td align="center"><b>Mata Kuliah</b></td>
-    <td>Praktikum Pemrograman Web 2026</td>
+    <td>Praktikum Pemrograman Web </td>
   </tr>
   <tr>
     <td align="center"><b>Instansi</b></td>
